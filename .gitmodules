@@ -1,0 +1,3 @@
+[submodule "serverapp"]
+	path = serverapp
+	url = https://github.com/EleryanYuri/serverapp.git
