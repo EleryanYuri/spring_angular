@@ -1,3 +1,6 @@
 [submodule "serverapp"]
 	path = serverapp
 	url = https://github.com/EleryanYuri/serverapp.git
+[submodule "server"]
+	path = server
+	url = https://github.com/EleryanYuri/server.git
